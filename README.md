@@ -2,7 +2,7 @@
 
 This is a guessing game program made in the Java language. I made this to learn and practice writing code in Java. The program selects a random number from 1-100 which the user is trying to guess. The user makes a guess, and the program tells them to guess higher or lower. The amount of time and how many guesses were used are tracked and shown to the user after they guess the number correctly. Highscores are kept for the user to refer to. The user may also clear the highscores if they wish.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/18Tr3C2HHQE)
 
 # Development Environment
 
